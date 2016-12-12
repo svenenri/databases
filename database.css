@@ -1,0 +1,186 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: serif;
+}
+
+.wrapper{
+	width: 970px;
+	margin: 0 auto;
+	padding: 0 5px 5px 5px;
+}
+
+	.title_banner img{
+		width: 230px;
+		height: 130px;
+		padding-right: 280px;
+	}
+	.title_banner h2{
+		display:inline-block;
+		position: absolute;
+		padding-top: 80px;
+	}
+
+	.menu ul{
+		list-style-type: none;
+		text-align: center;
+		padding: 10px;
+		border: 2px solid #767776;
+	}
+
+	.menu li{
+		display: inline;
+		margin: 20px 40px 10px 40px;
+	}
+
+.top_content{
+	background-color: #615070;
+	padding: 10px 10px 0 10px;
+}
+
+	.top_content img{
+		width: 530px;
+		height: 296px;
+		display: inline-block;
+		vertical-align: top;
+		border: 10px solid #c0c0c0;
+	}
+
+.database_def{
+	width: 345px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+	.database_def h3{
+		background-color: #8e8897;
+		padding-left: 15px;
+	}
+
+	.database_def p{
+		background-color: #e3d5e3;
+		padding-bottom: 30px;
+		padding: 10px 15px 10px 15px;
+	}
+
+.mid_content{
+	background-color: #615070;
+	padding-left: 150px;
+}
+
+	.mid_content img{
+		width: 10px;
+		margin-left: 630px;
+	}
+	.mid_content p{
+		display: inline-block;
+		font-size: .8em;
+		color: #576890;
+	}
+
+.bottom_content{
+	background-color: #615070;
+	padding-top: 7px;
+	padding-bottom: 20px;
+}
+
+.storage{
+	width: 220px;
+	background-color: #aab5cc;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+}
+
+	.storage h3{
+		background-color: #8e8897;
+		padding-left: 15px;
+	}
+
+	.storage img{
+		width: 220px;
+		height: 150px;
+	}
+
+	.storage p{
+		padding: 15px;
+		margin-bottom: 50px
+	}
+
+.searching{
+	width: 220px;
+	background-color: #aab5cc;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+}
+
+	.searching h3{
+		background-color: #8e8897;
+		padding-left: 15px;
+	}
+
+	.searching img{
+		width: 220px;
+		height: 150px
+	}
+
+	.searching p{
+		padding: 15px;
+	}
+
+.interaction{
+	width: 220px;
+	background-color: #aab5cc;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+}
+
+	.interaction h3{
+		background-color: #8e8897;
+		padding-left: 15px;
+	}
+
+	.interaction img{
+		width: 220px;
+		height: 150px;
+	}
+
+	.interaction p{
+		padding: 15px;
+	}
+
+.companies{
+	width: 220px;
+	background-color: #aab5cc;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+}
+
+	.companies h3{
+		background-color: #8e8897;
+		padding-left: 15px;
+	}
+
+	.companies img{
+		width: 220px;
+		height: 150px;
+	}
+
+	.companies p{
+		padding: 15px;
+		margin-bottom: 35px;
+	}
+
+.button{
+	margin: 100px 0 10px 110px;
+	font-weight: bold;
+	color: #e1e3ef;
+	background-color: #5a6f9d;
+	padding: 5px 10px 5px 10px;
+	border: 3px black solid;
+	border-radius: 5px;
+	box-shadow: 0px 2px 10px #1f2b33;
+}
