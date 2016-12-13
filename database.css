@@ -10,6 +10,14 @@
 	padding: 0 5px 5px 5px;
 }
 
+.sub_wrapper{
+	background: radial-gradient(#705666, #3a2c45);
+}
+
+.title_banner{
+	background: linear-gradient(#fcfcfc, #f3f4f1, #fcfcfc);
+}
+
 	.title_banner img{
 		width: 230px;
 		height: 130px;
@@ -21,11 +29,21 @@
 		padding-top: 80px;
 	}
 
-	.menu ul{
-		list-style-type: none;
+	.menu p{
+		background: linear-gradient(#fcfcfc, #f3f4f1, #fcfcfc);
+		display: inline-block;
+		margin-right: -6px;
 		text-align: center;
-		padding: 10px;
+		padding: 5px 35px 5px 35px;
 		border: 2px solid #767776;
+	}
+
+	.menu h4{
+		background: linear-gradient(#fcfcfc, #f3f4f1, #fcfcfc);
+		display: inline-block;
+		padding: 5px 18px 5px 17px;
+		border: 2px solid #767776;
+		color: transparent;
 	}
 
 	.menu li{
@@ -34,7 +52,7 @@
 	}
 
 .top_content{
-	background-color: #615070;
+
 	padding: 10px 10px 0 10px;
 }
 
@@ -53,18 +71,17 @@
 }
 
 	.database_def h3{
-		background-color: #8e8897;
+		background: linear-gradient(#cec9cd, #888292, #cec9cd);
 		padding-left: 15px;
 	}
 
 	.database_def p{
-		background-color: #e3d5e3;
+		background: linear-gradient(to right, #f0fbfe, #dfcbdb);
 		padding-bottom: 30px;
 		padding: 10px 15px 10px 15px;
 	}
 
 .mid_content{
-	background-color: #615070;
 	padding-left: 150px;
 }
 
@@ -79,21 +96,20 @@
 	}
 
 .bottom_content{
-	background-color: #615070;
 	padding-top: 7px;
 	padding-bottom: 20px;
 }
 
 .storage{
 	width: 220px;
-	background-color: #aab5cc;
+	background:linear-gradient(#9aa8c4, #f9fafc);
 	display: inline-block;
 	vertical-align: top;
 	margin-left: 10px;
 }
 
 	.storage h3{
-		background-color: #8e8897;
+		background: linear-gradient(#cec9cd, #888292, #cec9cd);
 		padding-left: 15px;
 	}
 
@@ -109,14 +125,14 @@
 
 .searching{
 	width: 220px;
-	background-color: #aab5cc;
+	background:linear-gradient(#9aa8c4, #f9fafc);
 	display: inline-block;
 	vertical-align: top;
 	margin-left: 10px;
 }
 
 	.searching h3{
-		background-color: #8e8897;
+		background: linear-gradient(#cec9cd, #888292, #cec9cd);
 		padding-left: 15px;
 	}
 
@@ -131,14 +147,14 @@
 
 .interaction{
 	width: 220px;
-	background-color: #aab5cc;
+	background:linear-gradient(#9aa8c4, #f9fafc);
 	display: inline-block;
 	vertical-align: top;
 	margin-left: 10px;
 }
 
 	.interaction h3{
-		background-color: #8e8897;
+		background: linear-gradient(#cec9cd, #888292, #cec9cd);
 		padding-left: 15px;
 	}
 
@@ -153,14 +169,14 @@
 
 .companies{
 	width: 220px;
-	background-color: #aab5cc;
+	background:linear-gradient(#9aa8c4, #f9fafc);;
 	display: inline-block;
 	vertical-align: top;
 	margin-left: 10px;
 }
 
 	.companies h3{
-		background-color: #8e8897;
+		background: linear-gradient(#cec9cd, #888292, #cec9cd);
 		padding-left: 15px;
 	}
 
